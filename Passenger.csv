@@ -1,0 +1,4 @@
+AccountNo,Name,AccountState,OnBoard,TimeOfEntry,TimeLeft
+12345,John Doe,Good Standing,Yes,09:00:00,10:00:00
+12346,Jane Smith,In Debt,No,10:00:00,11:00:00
+12347,Jim Brown,Cancelled,No,11:00:00,12:00:00
